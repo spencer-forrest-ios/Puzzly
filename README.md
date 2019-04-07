@@ -1,4 +1,4 @@
-# Puzzly game - Adaptive app (iPhones and iPads)
+# Puzzly Picture game - Adaptive app (iPhones and iPads)
 
 This is a simple puzzle game of 16 pieces. 
 The user can create a puzzle using a picture from her/his camera or photo library.
