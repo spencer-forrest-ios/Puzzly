@@ -12,6 +12,8 @@ There is a "hint" feature to help the user solve the puzzle.
 3. Solve the puzzle (the fewer the moves, the better)
 4. Share your solved puzzle with friends
 
+## More information:
+If you have any questions please contact me at [mailto](mailto:spencer.forrest.ios@gmail.com)
 
 ## Screenshots:
 ## Portrait
@@ -19,7 +21,6 @@ There is a "hint" feature to help the user solve the puzzle.
 <p align="center">
 <img src="Images/Portrait1.png" width="300">
 </p>
-
 
 <p align="center">
 <img src="Images/Portrait2.png" width="300">
