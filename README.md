@@ -13,7 +13,7 @@ There is a "hint" feature to help the user solve the puzzle.
 4. Share your solved puzzle with friends
 
 ## More information:
-If you have any questions please contact me at [mailto](mailto:spencer.forrest.ios@gmail.com)
+If you have any questions please contact me at [spencer.forrest.ios@gmail.com](mailto:spencer.forrest.ios@gmail.com)
 
 ## Screenshots:
 ## Portrait
