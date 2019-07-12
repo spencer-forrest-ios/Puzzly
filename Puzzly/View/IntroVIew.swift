@@ -19,7 +19,7 @@ protocol IntroViewDelegate: AnyObject {
   func photosButtonTouched()
 }
 
-/// This is the main View that will be setup in the IntroViewComtroller
+/// This is the main View that will be setup in the IntroViewComtroller.
 class IntroView: UIView {
   
   required init?(coder aDecoder: NSCoder) { super.init(coder: aDecoder) }
